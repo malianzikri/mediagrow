@@ -1,3 +1,12 @@
+POST-DEPLOY SEO FINAL — 18 Agustus 2026
+Production URL: https://mediagrow-psi.vercel.app
+- Canonical self-referencing sudah dipasang di semua halaman indexable.
+- og:url dan social image URL sudah dibuat absolute.
+- JSON-LD URL/@id sudah diarahkan ke production URL.
+- sitemap.xml final sudah dibuat.
+- robots.txt sekarang mereferensikan sitemap final.
+- 404 tetap noindex.
+
 # MediaGrow Website - Pre-Deploy Notes
 
 Status: siap untuk upload pertama ke Vercel.
