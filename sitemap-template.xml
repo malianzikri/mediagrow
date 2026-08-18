@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Rename to sitemap.xml after replacing YOUR-PROJECT with final Vercel domain -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-PROJECT.vercel.app/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/tentang/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/layanan/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/layanan/meta-ads-palembang/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/layanan/social-media-management-palembang/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/layanan/tiktok-live-palembang/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/layanan/brand-activation-palembang/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/portfolio/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/kontak/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/insight/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/insight/meta-ads-umkm-palembang/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/insight/konten-sudah-ada-tapi-belum-menghasilkan/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/insight/kapan-bisnis-perlu-tiktok-live/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR-PROJECT.vercel.app/privacy/</loc><lastmod>2026-08-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

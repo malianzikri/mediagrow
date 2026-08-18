@@ -1,0 +1,53 @@
+MEDIAGROW WEBSITE - PRE-DEPLOY AUDIT
+Tanggal: 18 Agustus 2026
+
+STATUS: SIAP UNTUK DEPLOY PERTAMA KE VERCEL
+
+DATA UTAMA
+- WhatsApp: 0831-5550-7877
+- WhatsApp URL: https://wa.me/6283155507877
+- Email: mediagrow09@gmail.com
+- Instagram: @mediagrow.id
+- Alamat: Lrg. Asrama Putra No.6416, Sekip Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30114
+
+AUDIT TEKNIS
+- 15 halaman HTML diperiksa
+- Broken internal link: 0
+- Missing asset: 0
+- Missing title: 0
+- Duplicate title: 0
+- Missing meta description: 0
+- Duplicate meta description: 0
+- Halaman tanpa 1 H1 utama: 0
+- JSON-LD parse error: 0
+- Gambar tanpa alt: 0
+- Gambar tanpa width/height: 0
+- Canonical: sengaja belum dipasang sampai domain Vercel final diketahui
+- robots.txt: crawling diizinkan
+- sitemap.xml: sengaja belum dibuat sebagai file aktif; tersedia sitemap-template.xml
+
+PERFORMANCE
+- Gambar utama/portfolio sudah dikonversi ke WebP
+- Total folder deploy sekitar 1.87 MB
+- Total asset sekitar 1.74 MB
+- Non-critical images menggunakan lazy loading
+- Width/height image ditambahkan untuk membantu mengurangi layout shift
+
+KONSISTENSI KONTEN
+- Nomor lama 0851-1762-4401 dihapus dari website
+- Nomor lama 0811-7199-210 tidak digunakan
+- Domain mediagrow.id tidak di-hardcode sebagai canonical/URL final
+- Logo header/footer diganti menggunakan visual logo MediaGrow yang diekstrak dari company profile terbaru
+- Visual pricelist lama dengan paket/kontak yang berbeda tidak digunakan di halaman publik
+- Case study Loyal Fitness menggunakan data dedicated case study periode 13 Maret-16 Mei 2026
+- Case study Panelux menggunakan data dedicated case study periode 1 Januari-16 Mei 2026
+- Case study Merpati Ladies Spa diberi konteks periode November 2025
+
+LANGKAH SETELAH DEPLOY PERTAMA
+1. Ambil URL final Vercel (contoh: nama-project.vercel.app).
+2. Update canonical seluruh halaman menggunakan URL final.
+3. Rename/generate sitemap-template.xml menjadi sitemap.xml dengan URL absolut final.
+4. Tambahkan Sitemap: https://URL-FINAL/sitemap.xml ke robots.txt.
+5. Update og:url, og:image, structured data URL/@id ke absolute URL final.
+6. Test website live desktop/mobile dan CTA WhatsApp.
+7. Setelah final, verifikasi Google Search Console dan submit sitemap.

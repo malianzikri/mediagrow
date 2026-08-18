@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Setelah deploy di Vercel dan mengetahui URL final,
+# update sitemap.xml lalu submit sitemap ke Google Search Console.
