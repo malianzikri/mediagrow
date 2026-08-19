@@ -1,19 +1,20 @@
 # MediaGrow
 
-MediaGrow adalah growth partner dan creative & digital marketing partner berbasis di Palembang, Sumatera Selatan.
+MediaGrow adalah growth partner berbasis di Palembang yang membantu bisnis lewat content management, Meta Ads, TikTok Live, lead handling, influencer collaboration, dan campaign digital.
 
-Layanan utama:
-- Content Production & Social Media Management
-- Meta Ads Management
-- Lead Handling / WhatsApp Admin
-- Conversion Support
-- Influencer Handling
-- TikTok Live Support
-- Brand Activation
+Paket utama:
+- Content Management — Rp 2.000.000/bulan: 6 Reels, 6 Feed Design, Content Planning, Copywriting.
+- Meta Ads Management — Rp 2.000.000/bulan: Setup Meta Ads, Management Campaign, Creative Ads, Monitoring & Optimasi, termasuk Budget Ads Rp500.000.
+- TikTok Live — Rp 2.000.000/bulan: 2 jam/hari, 6 hari/minggu, sekitar 48 jam/bulan, host profesional, setting & persiapan live. Device dan tempat dari client.
+
+Bundle:
+- Growth (Content + Ads): Rp 3.500.000/bulan.
+- Live Growth (Content + Live): Rp 3.750.000/bulan.
+- Sales Boost (Ads + Live): Rp 3.750.000/bulan.
+- All-In Growth (Content + Ads + Live): Rp 4.900.000/bulan.
+- Full Management: Rp 6.500.000/bulan.
 
 Website: https://mediagrow-psi.vercel.app
-
-Contact:
 WhatsApp: +62 831-5550-7877
 Email: mediagrow09@gmail.com
 Instagram: @mediagrow.id

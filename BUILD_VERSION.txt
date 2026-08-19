@@ -1,3 +1,1 @@
-MediaGrow website build: 2026-08-18 22:03 WIB
-Visual cleanup: PDF page-number screenshots removed from visible company profile sections.
-CSS cache-busted to style-v2.css.
+MediaGrow Website v3 FINAL — pricing 2026 + youthful copy — 2026-08-18
